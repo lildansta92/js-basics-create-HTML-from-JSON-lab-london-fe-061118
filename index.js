@@ -1,1 +1,1 @@
-document.getElementById ("Title").innerHTML=movies["Titanic"] ["Title"]
+document.getElementById ("Title").innerHTML=movies["Titanic"]["title"]
