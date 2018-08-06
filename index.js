@@ -1,1 +1,1 @@
-document.addEventListener("DOMContentloaded", (e) => { getelementbyId movies ()
+document.getElementById ("Title").innerHTML=""
