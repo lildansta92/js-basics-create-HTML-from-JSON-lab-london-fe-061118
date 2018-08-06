@@ -1,1 +1,1 @@
-document.getElementById ("Title").innerHTML=""
+document.getElementById ("Title").innerHTML=movies[movies]
